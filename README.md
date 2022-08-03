@@ -1,3 +1,3 @@
 ## README
 
-Respository which is a test for version control automatically via R. 
+Respository which is a test for version control integration with RStudio. 
